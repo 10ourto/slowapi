@@ -15,7 +15,7 @@ include = ["slowapi/py.typed"]
 
 [tool.poetry.dependencies]
 python = ">=3.7,<4.0"
-limits = "^2.1"
+limits = "^2.7"
 
 [tool.poetry.dev-dependencies]
 isort = "^4.3.21"
